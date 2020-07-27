@@ -1,4 +1,4 @@
-### Blog
+## Blog
 
 This a my blog using Gatsby & Ghost starter.
 
