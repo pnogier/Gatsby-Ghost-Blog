@@ -1,7 +1,7 @@
 {
   "development": {
-    "apiUrl": "https://pnogier.io",
-    "contentApiKey": "73d60c3e5c8d1ae84c0b2622e4"
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "e7222682a78f4e00ce3c30653b"
   },
   "production": {
     "apiUrl": "https://pnogier.io",
